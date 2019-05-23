@@ -1,2 +1,2 @@
 # hello-world
-leaning Github and store new ideas
+learning Github and store new ideas
